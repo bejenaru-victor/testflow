@@ -21,3 +21,7 @@ function dev() {
 function main() {
     return 'main'
 }
+
+function feature1() {
+    return 'feature 1'
+}
