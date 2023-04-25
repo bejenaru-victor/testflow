@@ -17,3 +17,7 @@ function d() {
 function dev() {
     return 'dev'
 }
+
+function feature2 () {
+    return 'function 2'
+}
