@@ -6,3 +6,7 @@ function a(){
 function b() {
     return 'This is function b'
 }
+
+function d() {
+    return 'd'
+}
