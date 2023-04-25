@@ -13,3 +13,7 @@ function c() {
 function d() {
     return 'd'
 }
+
+function main() {
+    return 'main'
+}
