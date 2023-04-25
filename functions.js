@@ -14,6 +14,10 @@ function d() {
     return 'd'
 }
 
+function dev() {
+    return 'dev'
+}
+
 function main() {
     return 'main'
 }
