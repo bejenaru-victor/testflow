@@ -9,3 +9,7 @@ function b() {
 function c() {
     return 'c'
 }
+
+function d() {
+    return 'd'
+}
