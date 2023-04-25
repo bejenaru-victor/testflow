@@ -25,3 +25,7 @@ function main() {
 function feature1() {
     return 'feature 1'
 }
+
+function feature2 () {
+    return 'function 2'
+}
